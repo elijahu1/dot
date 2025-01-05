@@ -79,7 +79,3 @@ Feel free to use, modify, and distribute these dotfiles. Attribution is apprecia
 
 "Arch Linux: I break it, I fix it, and it works better each time." 😎
 ```
-
----
-
-This version omits the YouTube channel part. Does this look good to you now?
