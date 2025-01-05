@@ -1,6 +1,3 @@
----
-
-```markdown
 # Dotfiles
 
 These are my dotfiles. I primarily use **Arch Linux**, but from time to time, I’ve been known to use **Arco**, **Manjaro**, or another Arch-based distro. **Solus** is also dope, although it doesn't need much configuration. I also run **Debian** or **Ubuntu** on a few server systems, so I ensure my dotfiles work there as well. And, on the rare occasion, I use a **MacBook**, where most of these dotfiles also work without issue.
