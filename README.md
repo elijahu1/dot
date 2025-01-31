@@ -17,7 +17,7 @@ These are my dotfiles. I primarily use **Arch Linux**, but from time to time, I�
 
 ## My Setup
 
-Currently, my primary system is **Arch Linux** running on a **Ryzen 5 2600X (6-core)** CPU with a **GTX 1050Ti**. I use the **Awesome Window Manager** as my window manager (yes, it's paired with Polybar because I like it that way — don't judge). Though I do enjoy **DWM** (maybe) and **BSPWM**, **Awesome** has my heart. For transparency effects, I use **iBhagwan's Picom Fork**.
+Currently, my primary system is **Arch Linux** running on a **Ryzen 5 2600X (6-core)** CPU with a **GTX 1050Ti**. I use the **Awesome Window Manager** as my window manager (yes, it's paired with Polybar because I like it that way — don't judge). Though I do enjoy **DWM** (maybe) and **BSPWM**, **Awesome** has my heart. For transparency effects, I use **iBhagwan's Picom Fork** i think.
 
 My terminal of choice is **Alacritty** (with **kitty** or **st** as a backup), and **Neovim** is my go-to text editor. 
 
