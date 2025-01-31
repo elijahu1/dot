@@ -1,6 +1,6 @@
 # Dotfiles
 
-These are my dotfiles. I primarily use **Arch Linux**, but from time to time, I’ve been known to use **Arco**, **Manjaro**, or another Arch-based distro. **Solus** is also dope, although it doesn't need much configuration. I also run **Debian** or **Ubuntu** on a few server systems, so I ensure my dotfiles work there as well. And, on the rare occasion, I use a **MacBook**, where most of these dotfiles also work without issue.
+These are my dotfiles. I primarily use **Arch Linux**, but from time to time, I’ve been known to use **Arco**, **Manjaro**, or another Arch-based distro. **RedHat** is also dope, although it doesn't need much configuration. I also run **Debian** or **Ubuntu** on a few server systems a very few, so I ensure my dotfiles work there as well. And, on the rare occasion, I use a **Laptop**, where most of these dotfiles also work without issue.
 
 ---
 
@@ -17,7 +17,7 @@ These are my dotfiles. I primarily use **Arch Linux**, but from time to time, I�
 
 ## My Setup
 
-Currently, my primary system is **Arch Linux** running on a **Ryzen 5 2600X (6-core)** CPU with a **GTX 1050Ti**. I use the **Awesome Window Manager** as my window manager (yes, it's paired with Polybar because I like it that way — don't judge). Though I do enjoy **DWM** and **BSPWM**, **Awesome** has my heart. For transparency effects, I use **iBhagwan's Picom Fork**.
+Currently, my primary system is **Arch Linux** running on a **Ryzen 5 2600X (6-core)** CPU with a **GTX 1050Ti**. I use the **Awesome Window Manager** as my window manager (yes, it's paired with Polybar because I like it that way — don't judge). Though I do enjoy **DWM** (maybe) and **BSPWM**, **Awesome** has my heart. For transparency effects, I use **iBhagwan's Picom Fork**.
 
 My terminal of choice is **Alacritty** (with **kitty** or **st** as a backup), and **Neovim** is my go-to text editor. 
 
