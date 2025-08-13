@@ -1,0 +1,21 @@
+# Ignore shell histories
+.zsh_history
+bash_history
+fish_history
+
+# Ignore caches and swap files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Ignore sensitive app data
+google-chrome/
+thunderbird/
+keyring/
+pass/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
