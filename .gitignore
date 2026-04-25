@@ -19,3 +19,60 @@ pass/
 .DS_Store
 Thumbs.db
 
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/backup files
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+*.orig
+
+# Shell history / personal state
+.bash_history
+.zsh_history
+.fish_history
+.python_history
+.node_repl_history
+.lesshst
+.wget-hsts
+
+# Cache and runtime files
+.cache/
+.local/share/
+.local/state/
+.tmp/
+tmp/
+
+# App-generated junk
+*.log
+*.pid
+
+# XDG / desktop leftovers
+*.desktop~
+*.service~
+
+# Neovim / Vim swap and backups
+Session.vim
+Sessionx.vim
+
+# Arch / package manager noise
+.pacnew
+.pacsave
+
+# Secrets
+*.env
+.env.*
+*.key
+*.pem
+*.crt
+*.cer
+id_rsa
+id_ed25519
+
+# If you ever add local-only config overrides
+*.local
+
